@@ -17,3 +17,4 @@ Los objetivos especificos de este sprint son:
 Fuentes: 
 1. https://dzone.com/articles/design-patterns-for-beginners-with-java-examples
 2. Patron Singleton: https://www.youtube.com/watch?v=uB3FFZsdx3w&t=446s
+3. Patron Observer https://www.youtube.com/watch?v=JIN--0m_V7Q
