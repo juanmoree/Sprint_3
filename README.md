@@ -14,4 +14,6 @@ Los objetivos especificos de este sprint son:
 3. Patrones de comportamiento
 
 
-Fuentes: https://dzone.com/articles/design-patterns-for-beginners-with-java-examples
+Fuentes: 
+1. https://dzone.com/articles/design-patterns-for-beginners-with-java-examples
+2. Patron Singleton: https://www.youtube.com/watch?v=uB3FFZsdx3w&t=446s
