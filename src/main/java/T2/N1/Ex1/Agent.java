@@ -14,9 +14,14 @@ public class Agent implements Observable {
         agencies.remove(observer);
     }
 
-    public void notifyObservers() {
+    public void notifyMarketDown() {
         for (Observer observer : agencies) {
-            observer.update();
+            observer.marketDown();
+        }
+    }
+    public void notifyMarketUp() {
+        for (Observer observer : agencies) {
+            observer.marketUp();
         }
     }
 }
