@@ -1,19 +1,15 @@
 package T1.N2;
 
-public class Agenda implements Direccion, Prefijo {
-    private String direccion;
-    private String telefono;
+import T1.N2.Address.Address;
+import T1.N2.Factory.AbstractFactory;
+import T1.N2.Phone.Phone;
 
-    public Agenda(String direccion, String telefono) {
-        this.direccion = direccion;
-        this.telefono = telefono;
-    }
+public class Agenda {
+    public AbstractFactory abstractFactory;
+    private Phone phone;
+    private Address address;
 
-    public String getDireccion() {
-        return direccion;
-    }
-
-    public String getPrefijo() {
-        return telefono;
+    public Agenda (AbstractFactory abstractFactory) {
+        this.abstractFactory = abstractFactory;
     }
 }
