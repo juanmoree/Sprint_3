@@ -20,4 +20,5 @@ Fuentes:
 3. Patron Singleton: https://www.youtube.com/watch?v=uB3FFZsdx3w&t=446s
 4. Patron Abstract Factory: https://www.youtube.com/watch?v=v-NdSDNVb4U&
 5. Patron Command: https://www.youtube.com/watch?v=iz8U8noXNqs
-6. Patron Observer https://www.youtube.com/watch?v=JIN--0m_V7Q
+6. Patron Observer: https://www.youtube.com/watch?v=JIN--0m_V7Q
+7. Patron Callback: https://www.youtube.com/watch?v=Hm1OjzTa_MY&t=430s
