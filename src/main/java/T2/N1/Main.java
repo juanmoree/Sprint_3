@@ -1,4 +1,4 @@
-package T2.N1.Ex1;
+package T2.N1;
 
 public class Main {
     public static void main(String[] args) {

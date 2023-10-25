@@ -1,4 +1,4 @@
-package T2.N1.Ex1;
+package T2.N1;
 
 import java.util.HashSet;
 import java.util.Set;
