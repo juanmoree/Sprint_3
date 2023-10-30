@@ -22,3 +22,4 @@ Fuentes:
 5. Patron Command: https://www.youtube.com/watch?v=iz8U8noXNqs
 6. Patron Observer: https://www.youtube.com/watch?v=JIN--0m_V7Q
 7. Patron Callback: https://www.youtube.com/watch?v=Hm1OjzTa_MY&t=430s
+8. Patron Inyección de dependencias: https://www.youtube.com/watch?v=Mb1609xfv5Q
