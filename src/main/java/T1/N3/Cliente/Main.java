@@ -8,7 +8,8 @@ public class Main {
         Actions action = new Actions();
         Settings.settings(action);
 
-        action.getAccelerate().execute();
+        action.getAccelerate().execute(); // Llamada a comando
+        action.accelerate(); // Llamada a metodo que ejecuta comando
         action.getBrake().execute();
         action.getStart().execute();
     }
