@@ -5,10 +5,11 @@ import java.util.ArrayList;
 public class Undo {
 
     private static Undo instance;
-    private static ArrayList<String> Stack = new ArrayList();
-
+    private static ArrayList<String> Stack;
     // Constructor privado para evitar instanciación
-    private Undo() {}
+    private Undo() {
+        this.Stack = new ArrayList();
+    }
 
     public static ArrayList<String> getStack() {
         return Stack;
