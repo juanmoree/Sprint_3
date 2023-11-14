@@ -21,7 +21,7 @@ public class ShoesStore implements PaymentCallBack {
 
         System.out.println("Choose your payment method:");
         System.out.println("1. Credit Card\n2. Paypal\n3. Bank Account");
-        Byte option = sc.nextByte();
+        byte option = sc.nextByte();
         switch (option) {
             case 1 -> {
                 System.out.println("Enter your credit card number:");
